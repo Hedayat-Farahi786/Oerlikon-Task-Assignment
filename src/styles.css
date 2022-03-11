@@ -1,1 +1,110 @@
-/* You can add global styles to this file, and also import other style files */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+.navbar {
+  display: flex;
+  align-items: flex-end;
+  padding: 1rem 2rem;
+  border-bottom: 1px solid #ccc;
+}
+.navbar img {
+  width: 10vw;
+  margin-right: 1rem;
+}
+
+.navbar h1 {
+  font-size: 1rem;
+}
+
+.card {
+  margin: 2rem 5rem;
+  border: 1px solid #ccc;
+}
+
+.topBar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.editButton {
+  margin-right: 20px !important;
+}
+
+tr {
+  cursor: pointer !important;
+}
+
+.customer__top {
+  display: flex;
+  align-items: center;
+}
+.customer__top__info {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.customer__top__info h3 {
+  color: grey;
+}
+
+.hr {
+  width: 100%;
+  border: 1px solid grey;
+  margin: 2rem 0;
+}
+
+.customer__info__item {
+  margin: 1rem;
+  border: 1px solid grey;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  border-radius: 10px;
+  padding-right: 1rem;
+}
+
+.customer__info__item__label {
+  font-size: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0 1rem;
+  margin-right: 1rem;
+  height: 40px;
+  color: #333;
+  background-color: rgba(233, 233, 233, 0.582);
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-right: 1px solid grey;
+}
+.customer__info__item__value {
+  font-weight: bold;
+}
+
+.customer__info__item__line {
+  color: rgba(128, 128, 128, 0.295);
+  height: 0.2px;
+}
+
+.customer__details {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 2rem;
+}
+
+.customer__details__item {
+  margin-right: 3rem;
+  margin-bottom: 2rem;
+}
+
+.customer__dialog__title {
+  margin: 2rem 0;
+  font-size: 1.5rem;
+}

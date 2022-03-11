@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "first_name": "Valerie",
+    "last_name": "Erik",
+    "email": "verik0@auda.org.au",
+    "gender": "Male",
+    "street_address": "69 Warrior Crossing",
+    "city": "Wuppertal",
+    "postal_code": "42285",
+    "country": "Germany",
+    "carDetails": {
+      "car_make": "Mercedes-Benz",
+      "car_model": "Sprinter 2500",
+      "car_color": "Yellow",
+      "car_year": 2011,
+      "automatic": true,
+      "VIN": "WA1LMBFE7CD037098",
+      "price": "€73268,14"
+    },
+    "carSpecifications": {
+      "HorsePower": "232hp",
+      "FuelEconomy": "28mpg",
+      "Warranty": "4y"
+    }
+  },
+  {
+    "id": 2,
+    "first_name": "Ag",
+    "last_name": "Anthill",
+    "email": "aanthill1@rakuten.co.jp",
+    "gender": "Male",
+    "street_address": "26583 Meadow Valley Avenue",
+    "city": "Frankfurt am Main",
+    "postal_code": "60549",
+    "country": "Germany",
+    "carDetails": {
+      "car_make": "Ford",
+      "car_model": "Explorer",
+      "car_color": "Puce",
+      "car_year": 2002,
+      "automatic": true,
+      "VIN": "1G6DK8E32C0451953",
+      "price": "€56985,42"
+    },
+    "carSpecifications": {
+      "HorsePower": "221hp",
+      "FuelEconomy": "18mpg",
+      "Warranty": "1y"
+    }
+  },
+  {
+    "id": 3,
+    "first_name": "Hendrika",
+    "last_name": "Keys",
+    "email": "hkeys2@myspace.com",
+    "gender": "Genderfluid",
+    "street_address": "1 Bartelt Avenue",
+    "city": "Witzenhausen",
+    "postal_code": "37217",
+    "country": "Germany",
+    "carDetails": {
+      "car_make": "Ford",
+      "car_model": "Explorer",
+      "car_color": "Green",
+      "car_year": 2006,
+      "automatic": false,
+      "VIN": "WAUVT54B73N246974",
+      "price": "€57466,14"
+    },
+    "carSpecifications": {
+      "HorsePower": "230hp",
+      "FuelEconomy": "25mpg",
+      "Warranty": "2y"
+    }
+  },
+  {
+    "id": 4,
+    "first_name": "Manolo",
+    "last_name": "Pirdy",
+    "email": "mpirdy3@bloomberg.com",
+    "gender": "Female",
+    "street_address": "9228 Eastwood Avenue",
+    "city": "Solingen",
+    "postal_code": "42659",
+    "country": "Germany",
+    "carDetails": {
+      "car_make": "Lincoln",
+      "car_model": "LS",
+      "car_color": "Fuscia",
+      "car_year": 2004,
+      "automatic": false,
+      "VIN": "JA4AS2AW7BU717773",
+      "price": "€27280,54"
+    },
+    "carSpecifications": {
+      "HorsePower": "233hp",
+      "FuelEconomy": "19mpg",
+      "Warranty": "2y"
+    }
+  },
+  {
+    "id": 5,
+    "first_name": "Henrietta",
+    "last_name": "Simioli",
+    "email": "hsimioli4@wix.com",
+    "gender": "Female",
+    "street_address": "5 Northport Court",
+    "city": "München",
+    "postal_code": "80804",
+    "country": "Germany",
+    "carDetails": {
+      "car_make": "Cadillac",
+      "car_model": "Escalade EXT",
+      "car_color": "Pink",
+      "car_year": 2008,
+      "automatic": false,
+      "VIN": "WAUDF78E68A866202",
+      "price": "€79282,81"
+    },
+    "carSpecifications": {
+      "HorsePower": "228hp",
+      "FuelEconomy": "23mpg",
+      "Warranty": "3y"
+    }
+  },
+  {
+    "id": 6,
+    "first_name": "Grazia",
+    "last_name": "Treadgold",
+    "email": "gtreadgold5@sphinn.com",
+    "gender": "Agender",
+    "street_address": "082 Brown Way",
+    "city": "Dillenburg",
+    "postal_code": "35687",
+    "country": "Germany",
+    "carDetails": {
+      "car_make": "Volvo",
+      "car_model": "XC90",
+      "car_color": "Orange",
+      "car_year": 2012,
+      "automatic": true,
+      "VIN": "3D4PH6FV2AT068207",
+      "price": "€74954,54"
+    },
+    "carSpecifications": {
+      "HorsePower": "234hp",
+      "FuelEconomy": "21mpg",
+      "Warranty": "4y"
+    }
+  },
+  {
+    "id": 7,
+    "first_name": "Irving",
+    "last_name": "Jewis",
+    "email": "ijewis6@diigo.com",
+    "gender": "Female",
+    "street_address": "31747 Buell Crossing",
+    "city": "Hamburg Sankt Pauli",
+    "postal_code": "20459",
+    "country": "Germany",
+    "carDetails": {
+      "car_make": "Suzuki",
+      "car_model": "Esteem",
+      "car_color": "Red",
+      "car_year": 2017,
+      "automatic": false,
+      "VIN": "JH4KB26509C414388",
+      "price": "€28701,53"
+    },
+    "carSpecifications": {
+      "HorsePower": "236hp",
+      "FuelEconomy": "25mpg",
+      "Warranty": "2y"
+    }
+  },
+  {
+    "id": 8,
+    "first_name": "Leandra",
+    "last_name": "Cameron",
+    "email": "lcameron7@mlb.com",
+    "gender": "Female",
+    "street_address": "8 Mayfield Park",
+    "city": "Berlin",
+    "postal_code": "10823",
+    "country": "Germany",
+    "carDetails": {
+      "car_make": "Bentley",
+      "car_model": "Continental Flying Spur",
+      "car_color": "Goldenrod",
+      "car_year": 2006,
+      "automatic": true,
+      "VIN": "5LMJJ3J55CE041527",
+      "price": "€25200,03"
+    },
+    "carSpecifications": {
+      "HorsePower": "218hp",
+      "FuelEconomy": "28mpg",
+      "Warranty": "5y"
+    }
+  },
+  {
+    "id": 9,
+    "first_name": "Shanta",
+    "last_name": "Burnup",
+    "email": "sburnup8@51.la",
+    "gender": "Female",
+    "street_address": "4643 Leroy Avenue",
+    "city": "Magdeburg",
+    "postal_code": "39130",
+    "country": "Germany",
+    "carDetails": {
+      "car_make": "Saab",
+      "car_model": "9-3",
+      "car_color": "Maroon",
+      "car_year": 2004,
+      "automatic": true,
+      "VIN": "2T1KU4EE2DC829849",
+      "price": "€75701,46"
+    },
+    "carSpecifications": {
+      "HorsePower": "241hp",
+      "FuelEconomy": "28mpg",
+      "Warranty": "4y"
+    }
+  },
+  {
+    "id": 10,
+    "first_name": "Samara",
+    "last_name": "Van Saltsberg",
+    "email": "svansaltsberg9@comcast.net",
+    "gender": "Male",
+    "street_address": "7170 Nevada Trail",
+    "city": "Hamburg",
+    "postal_code": "22453",
+    "country": "Germany",
+    "carDetails": {
+      "car_make": "Jeep",
+      "car_model": "Wrangler",
+      "car_color": "Crimson",
+      "car_year": 2011,
+      "automatic": false,
+      "VIN": "2T1BU4EE8CC228699",
+      "price": "€34603,64"
+    },
+    "carSpecifications": {
+      "HorsePower": "211hp",
+      "FuelEconomy": "15mpg",
+      "Warranty": "0y"
+    }
+  },
+  {
+    "id": 11,
+    "first_name": "Berkly",
+    "last_name": "Brouncker",
+    "email": "bbrounckera@aol.com",
+    "gender": "Female",
+    "street_address": "2 Vahlen Drive",
+    "city": "Augsburg",
+    "postal_code": "86156",
+    "country": "Germany",
+    "carDetails": {
+      "car_make": "Chevrolet",
+      "car_model": "Astro",
+      "car_color": "Crimson",
+      "car_year": 1993,
+      "automatic": true,
+      "VIN": "1C4RDJAG4DC696041",
+      "price": "€49930,00"
+    },
+    "carSpecifications": {
+      "HorsePower": "183hp",
+      "FuelEconomy": "10mpg",
+      "Warranty": "0y"
+    }
+  },
+  {
+    "id": 12,
+    "first_name": "Link",
+    "last_name": "Leborgne",
+    "email": "lleborgneb@cnn.com",
+    "gender": "Male",
+    "street_address": "59 Hanover Avenue",
+    "city": "Augsburg",
+    "postal_code": "86156",
+    "country": "Germany",
+    "carDetails": {
+      "car_make": "Infiniti",
+      "car_model": "QX56",
+      "car_color": "Teal",
+      "car_year": 2009,
+      "automatic": true,
+      "VIN": "3VWAL7AJ7AM303963",
+      "price": "€84568,18"
+    },
+    "carSpecifications": {
+      "HorsePower": "241hp",
+      "FuelEconomy": "28mpg",
+      "Warranty": "2y"
+    }
+  },
+  {
+    "id": 13,
+    "first_name": "Ora",
+    "last_name": "Brea",
+    "email": "obreac@ihg.com",
+    "gender": "Male",
+    "street_address": "477 Graceland Hill",
+    "city": "Hamburg",
+    "postal_code": "22559",
+    "country": "Germany",
+    "carDetails": {
+      "car_make": "Hyundai",
+      "car_model": "Entourage",
+      "car_color": "Puce",
+      "car_year": 2008,
+      "automatic": true,
+      "VIN": "WBAPM73569A871959",
+      "price": "€89527,28"
+    },
+    "carSpecifications": {
+      "HorsePower": "205hp",
+      "FuelEconomy": "15mpg",
+      "Warranty": "3y"
+    }
+  },
+  {
+    "id": 14,
+    "first_name": "Chrissy",
+    "last_name": "Phippen",
+    "email": "cphippend@devhub.com",
+    "gender": "Female",
+    "street_address": "7054 Hermina Place",
+    "city": "Hamburg",
+    "postal_code": "22179",
+    "country": "Germany",
+    "carDetails": {
+      "car_make": "Mazda",
+      "car_model": "Mazda5",
+      "car_color": "Aquamarine",
+      "car_year": 2016,
+      "automatic": true,
+      "VIN": "WBAVC73538A288936",
+      "price": "€30677,62"
+    },
+    "carSpecifications": {
+      "HorsePower": "235hp",
+      "FuelEconomy": "22mpg",
+      "Warranty": "2y"
+    }
+  },
+  {
+    "id": 15,
+    "first_name": "Yehudit",
+    "last_name": "Scarlett",
+    "email": "yscarlette@wordpress.com",
+    "gender": "Female",
+    "street_address": "92 Carioca Avenue",
+    "city": "Hannover",
+    "postal_code": "30167",
+    "country": "Germany",
+    "carDetails": {
+      "car_make": "Aston Martin",
+      "car_model": "Virage",
+      "car_color": "Purple",
+      "car_year": 2012,
+      "automatic": false,
+      "VIN": "1GKS1AE05BR009123",
+      "price": "€70643,71"
+    },
+    "carSpecifications": {
+      "HorsePower": "220hp",
+      "FuelEconomy": "23mpg",
+      "Warranty": "2y"
+    }
+  },
+  {
+    "id": 16,
+    "first_name": "Barty",
+    "last_name": "Genny",
+    "email": "bgennyf@gravatar.com",
+    "gender": "Female",
+    "street_address": "519 Bellgrove Crossing",
+    "city": "Hamburg Harvestehude",
+    "postal_code": "20249",
+    "country": "Germany",
+    "carDetails": {
+      "car_make": "Hyundai",
+      "car_model": "Elantra",
+      "car_color": "Mauv",
+      "car_year": 2020,
+      "automatic": true,
+      "VIN": "2C3CA2CV0AH987116",
+      "price": "€57877,44"
+    },
+    "carSpecifications": {
+      "HorsePower": "241hp",
+      "FuelEconomy": "28mpg",
+      "Warranty": "5y"
+    }
+  },
+  {
+    "id": 17,
+    "first_name": "Gwenni",
+    "last_name": "Keneford",
+    "email": "gkenefordg@wikispaces.com",
+    "gender": "Female",
+    "street_address": "066 Prentice Drive",
+    "city": "Berlin",
+    "postal_code": "12437",
+    "country": "Germany",
+    "carDetails": {
+      "car_make": "Maybach",
+      "car_model": "62",
+      "car_color": "Green",
+      "car_year": 2007,
+      "automatic": false,
+      "VIN": "WAUJT58E32A457842",
+      "price": "€26727,00"
+    },
+    "carSpecifications": {
+      "HorsePower": "210hp",
+      "FuelEconomy": "20mpg",
+      "Warranty": "1y"
+    }
+  },
+  {
+    "id": 18,
+    "first_name": "Elbertine",
+    "last_name": "Martschik",
+    "email": "emartschikh@cyberchimps.com",
+    "gender": "Male",
+    "street_address": "56 Sunfield Junction",
+    "city": "Hamburg",
+    "postal_code": "22179",
+    "country": "Germany",
+    "carDetails": {
+      "car_make": "Pontiac",
+      "car_model": "Bonneville",
+      "car_color": "Blue",
+      "car_year": 2021,
+      "automatic": false,
+      "VIN": "JTEBU5JR4D5631264",
+      "price": "€81993,18"
+    },
+    "carSpecifications": {
+      "HorsePower": "241hp",
+      "FuelEconomy": "30mpg",
+      "Warranty": "5y"
+    }
+  },
+  {
+    "id": 19,
+    "first_name": "Steward",
+    "last_name": "Simonin",
+    "email": "ssimonini@smh.com.au",
+    "gender": "Male",
+    "street_address": "9176 Arrowood Place",
+    "city": "Berlin",
+    "postal_code": "10587",
+    "country": "Germany",
+    "carDetails": {
+      "car_make": "Volvo",
+      "car_model": "S60",
+      "car_color": "Purple",
+      "car_year": 2001,
+      "automatic": false,
+      "VIN": "WBALW3C53CC226845",
+      "price": "€27466,04"
+    },
+    "carSpecifications": {
+      "HorsePower": "195hp",
+      "FuelEconomy": "21mpg",
+      "Warranty": "0y"
+    }
+  },
+  {
+    "id": 20,
+    "first_name": "Blanch",
+    "last_name": "Skip",
+    "email": "bskipj@marriott.com",
+    "gender": "Female",
+    "street_address": "23 Meadow Valley Park",
+    "city": "Berlin",
+    "postal_code": "12103",
+    "country": "Germany",
+    "carDetails": {
+      "car_make": "Buick",
+      "car_model": "LeSabre",
+      "car_color": "Goldenrod",
+      "car_year": 2015,
+      "automatic": false,
+      "VIN": "1GYUKCEF7AR034034",
+      "price": "€57391,71"
+    },
+    "carSpecifications": {
+      "HorsePower": "235hp",
+      "FuelEconomy": "25mpg",
+      "Warranty": "3y"
+    }
+  }
+]
