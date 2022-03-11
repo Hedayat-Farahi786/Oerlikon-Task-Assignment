@@ -2,6 +2,7 @@
 
 [Live Demo Here!](https://oerlikon.netlify.app/)
 
+<img src="https://i.imgur.com/EuCM7Fj.gif" width="600" height="300" />
 
 ## Configuration / Setup
 
