@@ -1,5 +1,7 @@
 # Oerlikon Assignment
 
+[Live Demo Here](https://oerlikon.netlify.app/)
+
 ## Configuration / Setup
 
 First, install the required dependencies
