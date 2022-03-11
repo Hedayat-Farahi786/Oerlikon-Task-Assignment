@@ -1,6 +1,7 @@
 # Oerlikon Assignment
 
-#[Live Demo Here](https://oerlikon.netlify.app/)
+[Live Demo Here!](https://oerlikon.netlify.app/)
+
 
 ## Configuration / Setup
 
